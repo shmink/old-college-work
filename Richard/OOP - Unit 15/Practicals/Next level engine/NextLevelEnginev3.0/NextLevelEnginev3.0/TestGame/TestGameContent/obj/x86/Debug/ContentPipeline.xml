@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>bgLayer1.png</Source>
+      <Name>bgLayer1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\Content\bgLayer1.xnb</Output>
+      <Time>2013-11-29T13:25:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>bgLayer2.png</Source>
+      <Name>bgLayer2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\Content\bgLayer2.xnb</Output>
+      <Time>2013-11-29T13:25:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2013-11-29T13:25:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy.png</Source>
+      <Name>enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\Content\enemy.xnb</Output>
+      <Time>2013-11-29T13:25:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>mainbackground.png</Source>
+      <Name>mainbackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\Content\mainbackground.xnb</Output>
+      <Time>2013-11-29T13:25:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>player.png</Source>
+      <Name>player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\Content\player.xnb</Output>
+      <Time>2013-11-29T13:25:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>healthbar.png</Source>
+      <Name>healthbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\Content\healthbar.xnb</Output>
+      <Time>2013-12-03T10:58:42+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2013-12-03T10:58:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>WhatIMightDo.mp3</Source>
+      <Name>WhatIMightDo</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\Content\WhatIMightDo.xnb</Output>
+      <Extra>C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\Content\WhatIMightDo.wma</Extra>
+      <Time>2013-12-10T01:24:16.466885+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-01-17T16:55:39.931835+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

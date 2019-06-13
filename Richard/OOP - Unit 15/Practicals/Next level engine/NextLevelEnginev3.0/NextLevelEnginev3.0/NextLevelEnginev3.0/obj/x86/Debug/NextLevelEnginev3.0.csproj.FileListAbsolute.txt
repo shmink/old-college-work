@@ -1,0 +1,12 @@
+C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\NextLevelEnginev3.0\bin\x86\Debug\NextLevelEnginev3.0.dll
+C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\NextLevelEnginev3.0\bin\x86\Debug\NextLevelEnginev3.0.pdb
+C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\NextLevelEnginev3.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\NextLevelEnginev3.0\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\NextLevelEnginev3.0\obj\x86\Debug\NextLevelEnginev3.0.dll
+C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\NextLevelEnginev3.0\obj\x86\Debug\NextLevelEnginev3.0.pdb
+\\titan.saturn.internal\StuData$\Home\01nicklt\Desktop\NextLevelEnginev3.0\NextLevelEnginev3.0\NextLevelEnginev3.0\bin\x86\Debug\NextLevelEnginev3.0.dll
+\\titan.saturn.internal\StuData$\Home\01nicklt\Desktop\NextLevelEnginev3.0\NextLevelEnginev3.0\NextLevelEnginev3.0\bin\x86\Debug\NextLevelEnginev3.0.pdb
+\\titan.saturn.internal\StuData$\Home\01nicklt\Desktop\NextLevelEnginev3.0\NextLevelEnginev3.0\NextLevelEnginev3.0\obj\x86\Debug\ResolveAssemblyReference.cache
+\\titan.saturn.internal\StuData$\Home\01nicklt\Desktop\NextLevelEnginev3.0\NextLevelEnginev3.0\NextLevelEnginev3.0\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\titan.saturn.internal\StuData$\Home\01nicklt\Desktop\NextLevelEnginev3.0\NextLevelEnginev3.0\NextLevelEnginev3.0\obj\x86\Debug\NextLevelEnginev3.0.dll
+\\titan.saturn.internal\StuData$\Home\01nicklt\Desktop\NextLevelEnginev3.0\NextLevelEnginev3.0\NextLevelEnginev3.0\obj\x86\Debug\NextLevelEnginev3.0.pdb

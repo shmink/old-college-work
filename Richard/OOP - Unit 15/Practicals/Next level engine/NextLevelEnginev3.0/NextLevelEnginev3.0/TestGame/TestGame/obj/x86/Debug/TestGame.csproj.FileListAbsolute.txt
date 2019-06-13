@@ -1,0 +1,34 @@
+C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\Content\bgLayer1.xnb
+C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\Content\bgLayer2.xnb
+C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\Content\bullet.xnb
+C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\Content\enemy.xnb
+C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\Content\mainbackground.xnb
+C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\Content\player.xnb
+C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\TestGame.exe
+C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\TestGame.pdb
+C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\NextLevelEnginev3.0.dll
+C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\NextLevelEnginev3.0.pdb
+C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\obj\x86\Debug\TestGame.exe
+C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\obj\x86\Debug\TestGame.pdb
+\\titan.saturn.internal\StuData$\Home\01nicklt\Desktop\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\Content\bgLayer1.xnb
+\\titan.saturn.internal\StuData$\Home\01nicklt\Desktop\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\Content\bgLayer2.xnb
+\\titan.saturn.internal\StuData$\Home\01nicklt\Desktop\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\Content\bullet.xnb
+\\titan.saturn.internal\StuData$\Home\01nicklt\Desktop\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\Content\enemy.xnb
+\\titan.saturn.internal\StuData$\Home\01nicklt\Desktop\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\Content\mainbackground.xnb
+\\titan.saturn.internal\StuData$\Home\01nicklt\Desktop\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\Content\player.xnb
+\\titan.saturn.internal\StuData$\Home\01nicklt\Desktop\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\Content\healthbar.xnb
+\\titan.saturn.internal\StuData$\Home\01nicklt\Desktop\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\Content\SpriteFont1.xnb
+\\titan.saturn.internal\StuData$\Home\01nicklt\Desktop\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\TestGame.exe
+\\titan.saturn.internal\StuData$\Home\01nicklt\Desktop\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\TestGame.pdb
+\\titan.saturn.internal\StuData$\Home\01nicklt\Desktop\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\NextLevelEnginev3.0.dll
+\\titan.saturn.internal\StuData$\Home\01nicklt\Desktop\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\NextLevelEnginev3.0.pdb
+\\titan.saturn.internal\StuData$\Home\01nicklt\Desktop\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\obj\x86\Debug\ResolveAssemblyReference.cache
+\\titan.saturn.internal\StuData$\Home\01nicklt\Desktop\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\titan.saturn.internal\StuData$\Home\01nicklt\Desktop\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\obj\x86\Debug\TestGame.exe
+\\titan.saturn.internal\StuData$\Home\01nicklt\Desktop\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\obj\x86\Debug\TestGame.pdb
+C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\Content\healthbar.xnb
+C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\Content\WhatIMightDo.xnb
+C:\Users\Tom\Dropbox\College work 2nd year\Richard\OOP\Practicals\Next level engine\NextLevelEnginev3.0\NextLevelEnginev3.0\TestGame\TestGame\bin\x86\Debug\Content\WhatIMightDo.wma
